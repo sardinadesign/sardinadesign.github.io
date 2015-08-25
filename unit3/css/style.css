@@ -1,9 +1,80 @@
+* {
+	margin: none;
+	padding: none;
+}
 body {
-	background-color: orange;
+	/*background-image: url(images/92-DSC_8751.jpg);*/
+	background-color: #BEDCDB;
+
 }
+
 h1 {
-	color: red;
-	font-family: times;
-	font-size: 50px;
-	text-align: center;
+	font-family: helvetica, sans-serif;
+	font-size: 40px;
+	font-weight: 30px;
+	text-align: left;
+	margin-left: 30px;
+	margin-bottom: none;
+	text-decoration: none;
+	color: #DC8130;
 }
+
+img {	
+	margin-left: 30px;
+	padding-left: none;
+	/*padding-top: none;*/
+	/*padding-bottom: 15px;*/
+}
+
+h3 {
+	font-family: helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: 15px;
+	font-style: italic;
+	text-align: left;
+	margin-left: 30px;
+	text-decoration: none;
+	color: #000;
+}
+a {
+	margin-left: 30px;
+	/*text-decoration: none;*/
+	font-family: helvetica, sans-serif;
+	font-weight: 15px;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: 9px;
+	margin-left: 30px;
+	max-width: 700px;
+
+}
+
+li {
+	font-family: helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bolder;
+	/*padding-top-top: 10px;*/
+	padding-bottom: 5px;
+	margin-left: 70px;
+	color: #2E4ED4;
+}
+
+
+/*a {
+	font-family: helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bolder;
+	margin-top: 50px;
+	padding-bottom: 30px;
+	margin-left: 70px;
+	text-decoration: none;
+	color: #2E4ED4;*/
+
+}
+
+}*/
