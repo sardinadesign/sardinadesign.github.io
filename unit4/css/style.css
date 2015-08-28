@@ -1,0 +1,95 @@
+* {
+	margin: none;
+	padding: none;
+}
+body {
+/*	background-image: url(../images/92-DSC_8751.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	background-color: #ffffff;
+
+}
+
+h1 {
+	/*font-family: helvetica, sans-serif;*/
+	font-family: 'Exo 2', sans-serif;
+	font-size: 40px;
+	font-weight: 10px;
+	/*font-style: italic;*/
+	text-align: left;
+	margin-left: 30px;
+	margin-bottom: none;
+	text-decoration: none;
+	color: #FFA33D;
+}
+
+img {	
+	margin: 0;
+	padding: 0;
+
+}
+
+h3 {
+	font-family: 'Exo 2', helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: 30px;
+	font-style: italic;
+	text-align: left;
+	margin-left: 30px;
+	text-decoration: none;
+	color: #000;
+}
+
+/*.link1 {
+	color: 
+}*/
+
+
+p {
+	font-family: 'Exo 2', helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 22px;
+	margin-left: 30px;
+	max-width: 700px;
+
+}
+
+/*li {
+	font-family: helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bolder;
+	padding-top-top: 10px;
+	padding-bottom: 5px;
+	margin-left: 70px;
+	color: #2E4ED4;
+}*/
+
+a {
+	font-family: 'Exo 2', helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bolder;
+	font-style: italic;
+	/*font-style: italic;*/
+	margin: 30px;
+	line-height: 22px;
+	text-decoration: none;
+	color: #2E4ED4;
+
+}
+
+#email {
+	font-family: 'Exo 2', helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 60px;
+	margin: 30px;
+	text-decoration: none;
+	color: #FFA33D;
+
+}
+
+#logo {
+	width: 150px;
+}
